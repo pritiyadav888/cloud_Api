@@ -1,0 +1,7 @@
+POST http://localhost:3000/api
+Authorization: Bearer
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImlkIjoiMSIsImFnZSI6MTAsInNjb3JlIjoyMH0sImlhdCI6MTY1Njg5MjExOSwiZXhwIjoxNjU2ODkyNzE5fQ.cLcDV4gVK1x293JB57shB4sY-d6JJwyPZRRp3qBRcSc
+###
+
+POST http://localhost:3000/login
+Content-Type: application/json
